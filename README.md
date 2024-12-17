@@ -2,6 +2,11 @@
 
 Ce projet implémente une application interactive de détection et de manipulation de visages, utilisant des technologies d'intelligence artificielle telles que **OpenCV** et **Streamlit**. Il permet aux utilisateurs de télécharger une image, de détecter des visages et des yeux, et même d'échanger les visages entre eux. Ce projet démontre la capacité à travailler avec des algorithmes de traitement d'images en temps réel et à créer des interfaces utilisateur interactives et intuitives.
 
+
+
+![Alt text](Images/0.png)
+
+
 ### Fonctionnalités
 
 - **Détection de visages** : Identifie et marque les visages dans l'image téléchargée en utilisant un classificateur Haar.
