@@ -47,7 +47,7 @@ pip install opencv-python-headless streamlit numpy pillow
 Clonez ce repository sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/detection-manipulation-visages.git
+git clone https://github.com/DavidLUTALA/FaceApp_Detection_Faciale.git
 ```
 
 ### Exécution du projet
