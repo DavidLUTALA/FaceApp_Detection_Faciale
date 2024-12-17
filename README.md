@@ -5,7 +5,7 @@ Ce projet implémente une application interactive de détection et de manipulati
 
 
 ![Alt text](Images/0.png)
-![Alt text](Images/10.png)
+![Alt text](Images/0.1.png)
 
 
 ### Fonctionnalités
@@ -80,7 +80,7 @@ Cela ouvrira automatiquement une interface web dans votre navigateur où vous po
 ![Alt text](Images/7.png)
 ![Alt text](Images/8.png)
 ![Alt text](Images/9.png)
-![Alt text](Images/0.1.png)
+![Alt text](Images/10.png)
 
 ## Auteurs
 
