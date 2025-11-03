@@ -67,7 +67,7 @@ Cela ouvrira automatiquement une interface web dans votre navigateur où vous po
 ## 💬 Améliorations possibles
 
 - **Reconnaissance faciale** : Intégration d'un modèle de reconnaissance faciale pour identifier les individus.
-- **Échange de visages multiple** : Ajout d'une fonctionnalité permettant d'échanger plusieurs visages dans une même image.
+- **Échange de visages multiple** : Ajout d'une fonctionnalité permettant d'échanger plusieurs visages dans une même image
 - **Optimisation des performances** : Utilisation de modèles de détection plus rapides ou basés sur des réseaux neuronaux pour de meilleures performances.
 - **Amélioration de l'interface utilisateur** : Ajout de plus d'options et de filtres pour les utilisateurs via Streamlit.
 
